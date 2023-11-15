@@ -120,9 +120,11 @@ h1,h3{
 
 /* début exo 06 background-attachement*/
 .img-12{
-    
+    background-image: url("../images/bg_image_petite.jpg");
+    background-attachment: scroll;  
 }
 .img-13{
+    background: url("../images/bg_image_petite.jpg") left top;
 }
 /* fin exo 06 background-attachement*/
 
